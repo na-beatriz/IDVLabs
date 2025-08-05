@@ -1,0 +1,11 @@
+id_fornecedor,razao_social,nome_fantasia,cnpj,telefone,email,endereco,data_cadastro
+1,Cimentos do Brasil S.A.,Cimento Forte,11.111.111/0001-11,,contato@cimentoforte.com,,2025-07-24 17:49:55
+2,Tigre Tubos e Conexões Ltda.,Tigre,22.222.222/0001-22,,vendas@tigre.com,,2025-07-24 17:49:55
+3,Gerdau Aços Longos S.A.,Gerdau,33.333.333/0001-33,,comercial@gerdau.com.br,,2025-07-24 17:49:55
+4,Votorantim Cimentos S.A.,Votorantim,44.444.444/0001-44,,sac@vcimentos.com.br,,2025-07-24 17:49:55
+5,Suvinil Tintas,Suvinil,55.555.555/0001-55,,contato@suvinil.com.br,,2025-07-24 17:49:55
+6,Bosch Ferramentas Elétricas,Bosch,66.666.666/0001-66,,ferramentas@br.bosch.com,,2025-07-24 17:49:55
+7,Deca Louças Sanitárias,Deca,77.777.777/0001-77,,atendimento@deca.com.br,,2025-07-24 17:49:55
+8,Quartzolit Argamassas,Quartzolit,88.888.888/0001-88,,faleconosco@quartzolit.com,,2025-07-24 17:49:55
+9,Pado Fechaduras e Cadeados,Pado,99.999.999/0001-99,,contato@pado.com.br,,2025-07-24 17:49:55
+10,Tramontina Eletrik,Tramontina,10.101.010/0001-10,,eletrik@tramontina.com,,2025-07-24 17:49:55
