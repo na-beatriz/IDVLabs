@@ -63,6 +63,7 @@ A estrutura segue o modelo em camadas: Landing → Bronze → Silver → Gold.
 
 ## 🗂️ Estrutura de Diretórios
 
+```
 📂 IDVLabs/
 ├── 📂 data_carga_fria/
 │   ├── 📄 idv_store_clientes_cf.csv
@@ -80,7 +81,7 @@ A estrutura segue o modelo em camadas: Landing → Bronze → Silver → Gold.
 │   └── 📂 gold/
 │       ├── 📂 data_gold/
 │       └── 📓 script_gold.ipynb
-
+```
 ---
 
 ## 📈 Resultados e Benefícios
