@@ -63,23 +63,23 @@ A estrutura segue o modelo em camadas: Landing → Bronze → Silver → Gold.
 
 ## 🗂️ Estrutura de Diretórios
 
-📁 IDVLabs/
-├── 📁 data_carga_fria/
-│   ├── idv_store_clientes_cf.csv
-│   └── idv_store_produtos_cf.csv
-├── 📁 data_lake/
-│   ├── 📁 landing/
-│   │   ├── data_landing.csv
-│   │   └── script_landing.ipynb
-│   ├── 📁 bronze/
-│   │   ├── data_bronze/
-│   │   └── script_bronze.ipynb
-│   ├── 📁 silver/
-│   │   ├── data_silver/
-│   │   └── script_silver.ipynb
-│   └── 📁 gold/
-│       ├── data_gold/
-│       └── script_gold.ipynb
+📂 IDVLabs/
+├── 📂 data_carga_fria/
+│   ├── 📄 idv_store_clientes_cf.csv
+│   └── 📄 idv_store_produtos_cf.csv
+├── 📂 data_lake/
+│   ├── 📂 landing/
+│   │   ├── 📄 data_landing.csv
+│   │   └── 📓 script_landing.ipynb
+│   ├── 📂 bronze/
+│   │   ├── 📂 data_bronze/
+│   │   └── 📓 script_bronze.ipynb
+│   ├── 📂 silver/
+│   │   ├── 📂 data_silver/
+│   │   └── 📓 script_silver.ipynb
+│   └── 📂 gold/
+│       ├── 📂 data_gold/
+│       └── 📓 script_gold.ipynb
 
 ---
 
